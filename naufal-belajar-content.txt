@@ -8,5 +8,6 @@ RENCANA BELAJAR NAUFAL
 -JAVASCRIPT
  * Framework Javascript
    ^ Vue
+   ^ React
 -GIT & GITHUB
 -Python
