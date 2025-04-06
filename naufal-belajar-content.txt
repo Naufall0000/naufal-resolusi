@@ -5,5 +5,8 @@ RENCANA BELAJAR NAUFAL
  * YT Web Programing Unpas
 -Basis Data
 -CSS
--JAVA SCRIPT
+-JAVASCRIPT
+ * Framework Javascript
+   ^ Vue
 -GIT & GITHUB
+-Python
