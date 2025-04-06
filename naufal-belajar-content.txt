@@ -3,7 +3,10 @@ RENCANA BELAJAR NAUFAL
 -HTML
  * YT Dea Afrizal
  * YT Web Programing Unpas
--Basis Data
 -CSS
 -JAVA SCRIPT
+  ^ Angular
+  ^ React
 -GIT & GITHUB
+  ^ Lokal Git
+
