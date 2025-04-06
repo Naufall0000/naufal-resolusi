@@ -3,8 +3,9 @@ RENCANA BELAJAR NAUFAL
 -HTML
  * YT Dea Afrizal
  * YT Web Programing Unpas
--Basis Data
 -CSS
+-GIT & GITHUB
+  ^ Lokal Git
 -JAVASCRIPT
  * Framework Javascript
    ^ Vue
