@@ -1,6 +1,8 @@
 RENCANA BELAJAR NAUFAL
 
 -HTML
+ * YT Dea Afrizal
+ * YT Web Programing Unpas
 -CSS
 -JAVA SCRIPT
 -GIT & GITHUB
