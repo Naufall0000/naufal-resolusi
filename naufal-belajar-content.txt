@@ -4,9 +4,11 @@ RENCANA BELAJAR NAUFAL
  * YT Dea Afrizal
  * YT Web Programing Unpas
 -CSS
--JAVA SCRIPT
-  ^ Angular
-  ^ React
 -GIT & GITHUB
   ^ Lokal Git
-
+-JAVASCRIPT
+ * Framework Javascript
+   ^ Vue
+   ^ React
+-GIT & GITHUB
+-Python
